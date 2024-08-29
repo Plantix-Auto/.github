@@ -26,6 +26,8 @@ Uma aplicação integrada à que tem como principal objetivo automatizar sistema
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xLucazzz"><img src="https://avatars.githubusercontent.com/xlucazzz" width="100px;" alt="Lucas Nunes"/><br /><sub><b>Lucas Nunes</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuisFelipesdc"><img src="https://avatars.githubusercontent.com/LuisFelipesdc" width="100px;" alt="Luís Felipe"/><br /><sub><b>Luís Felipe</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/henriquesilvaa3525"><img src="https://avatars.githubusercontent.com/henriquesilvaa3525" width="100px;" alt="Henrique Silva"/><br /><sub><b>Henrique Silva</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andrade69"><img src="https://avatars.githubusercontent.com/andrade69" width="100px;" alt="Gabriel Andrade"/><br /><sub><b>Gabriel Andrade</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Fernanda-alv"><img src="https://avatars.githubusercontent.com/Fernanda-alv" width="100px;" alt="Fernanda Raquel"/><br /><sub><b>Fernanda Raquel</b></sub></a></td>
     </tr>
   </tbody>
 </table>
