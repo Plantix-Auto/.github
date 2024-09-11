@@ -9,7 +9,7 @@ O seu aliado nas plantações!
 
 ## Sobre o Projeto:
 
-Uma aplicação integrada à que tem como principal objetivo automatizar sistemas de plantação em estufa.
+Uma aplicação integrada à sistemas de plantações agrícolas que tem como principal objetivo automatizar o controle de umidade e temperatura adequada para o cultivo.
 
 ## Recursos Utilizados:
 
