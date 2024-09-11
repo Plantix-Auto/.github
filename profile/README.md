@@ -1,6 +1,6 @@
 <h1 align="center">Plantix<h1>
 <p align="center">
-  <img src="https://xlucazzz.dev/plantix/logo.png" width="143px" />
+  <img src="https://xlucazzz.dev/plantix/logo2.png" width="143px" />
 </p>
 
 <p align="center" style="font-size: 20px">
